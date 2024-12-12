@@ -1,6 +1,6 @@
 # Devoxx Genie Terminal Prototype
 
-**Devoxx Genie Terminal** is a macOS application that provides a user-friendly terminal interface with AI-powered command suggestions and execution. It leverages the Ollama service for natural language processing and command generation, enhancing the traditional terminal experience.
+**Devoxx Genie Terminal** is a macOS Swift application that provides a user-friendly terminal interface with AI-powered command suggestions and execution. It leverages the Ollama service for natural language processing and command generation, enhancing the traditional terminal experience.
 
 https://github.com/user-attachments/assets/840cca49-04c1-4c75-a7a4-09b2c291d313
 
