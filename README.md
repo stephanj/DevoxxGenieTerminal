@@ -45,6 +45,14 @@ https://github.com/user-attachments/assets/840cca49-04c1-4c75-a7a4-09b2c291d313
 5. **Toggle theme:** Click the sun/moon icon to switch between light and dark themes.
 6. **View debug logs:** Click the terminal icon to show/hide the debug panel.
 
+
+## To Do's
+- [ ] Keep history of commands
+- [ ] Scroll through history of commands
+- [ ] Auto complete command based on history
+- [ ] Allow user to select which Ollama model to use
+- [ ] Create native MacOS app for download (signing cert. ?)
+
 ## Project Structure
 
 -   **`DevoxxTerminal/`:** Contains the source code for the application.
